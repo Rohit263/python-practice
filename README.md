@@ -1,5 +1,6 @@
 # Practice Questions
 ## Python Pre-requisite
+<center>
 <table width="90%"> 
   <tr>
   <td width="30%">
@@ -27,6 +28,7 @@
   </td>
   </tr>
   </table>
+</center>
 
 ### Ques-1
 Write a function to compute 1/0 and use try/except to catch the exception.
