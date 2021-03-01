@@ -44,7 +44,7 @@ Write a function to calculate power of a number without using `math.pow()` and `
 
 ### Challenge Question
 A two wheeled non-holonomic robot can move only in 4 directions in XY plane - UP, DOWN, LEFT, RIGHT. \
-Write a function to calculate Euclidean distance between final position & initial position (0, 0) and angle (in degrees) w.r.t. `-x` axis. \
+Write a function to calculate Euclidean distance between final position & initial position (0, 0) and angle (in degrees) always in positive form. \
 Output should be rounded-off to greatest integer number
 - Output \
 ![](output-img/challenge.png)
