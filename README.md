@@ -19,12 +19,16 @@
   - [Format String](https://www.learnbyexample.org/python-string-format-method/)
   - [Operators](https://www.learnbyexample.org/python-operators/)
   </td>
+  </tr>
   
+  <tr>
   <td width="25%">
   
   - [Functions](https://www.learnbyexample.org/python-functions/)
   - [Class](https://www.learnbyexample.org/python-classes-and-objects/)
   - [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/)
+  </td>
+  </tr>
   </table>
 
 
