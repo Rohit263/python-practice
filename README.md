@@ -1,7 +1,8 @@
 # Practice Questions
 ## Python Pre-requisite
-<center>
+
 <table width="90%"> 
+<center>
   <tr>
   <td width="30%">
     
