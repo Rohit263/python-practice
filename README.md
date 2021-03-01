@@ -1,32 +1,23 @@
 # Practice Questions
 ## Python Pre-requisite
 <div align="center">
-<table width="90%"> 
-  <td width="30%">
-      
-  <tr>  
+<table width="100%"> 
+  <td width="50%">
   
-  [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/) 
-  </tr>
+   - [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/) 
    - [Loop](https://www.learnbyexample.org/python-while-loop/)
    - [break](https://www.learnbyexample.org/python-break-statement/)
-   
-  </td>
-  
-  <td width="30%">
-      
-  - [Dictionary](https://www.learnbyexample.org/python-dictionary/)
-  - [Lists](https://www.learnbyexample.org/python-list/) 
-  - [Format String](https://www.learnbyexample.org/python-string-format-method/)
-    
+   - [Dictionary](https://www.learnbyexample.org/python-dictionary/)
+   - [Lists](https://www.learnbyexample.org/python-list/) 
   </td>
  
-  <td width="30%">
+  <td width="50%">
     
   - [Functions](https://www.learnbyexample.org/python-functions/)
   - [Class](https://www.learnbyexample.org/python-classes-and-objects/)
   - [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/)
-  
+  - [Operators](https://www.learnbyexample.org/python-operators/)
+  - [Format String](https://www.learnbyexample.org/python-string-format-method/)
   </td>
   </table>
 </div>
