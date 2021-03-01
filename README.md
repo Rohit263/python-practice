@@ -13,7 +13,7 @@
   
   [Differential Drive Model](https://www.youtube.com/watch?v=aE7RQNhwnPQ)
 
-<br>
+____
 
 ### Ques-1
 Write a function to compute 1/0 and use try/except to catch the exception.
