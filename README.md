@@ -3,6 +3,7 @@
 <table width="100%"> 
   <tr>
   <td width="25%">
+    
    - [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/)
    - [Loop](https://www.learnbyexample.org/python-while-loop/)
    - [break](https://www.learnbyexample.org/python-break-statement/)
@@ -14,6 +15,7 @@
   </td>
 
   <td width="25%">
+  
   - [Dictionary](https://www.learnbyexample.org/python-dictionary/)
   - [Lists](https://www.learnbyexample.org/python-list/) 
 
