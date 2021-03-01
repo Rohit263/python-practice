@@ -3,13 +3,13 @@
 <table width="100%"> 
   <tr>
   <td width="25%">
-    - [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/)
-    - [Loop](https://www.learnbyexample.org/python-while-loop/)
-    - [break](https://www.learnbyexample.org/python-break-statement/)
+   - [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/)
+   - [Loop](https://www.learnbyexample.org/python-while-loop/)
+   - [break](https://www.learnbyexample.org/python-break-statement/)
 
-    - [Functions](https://www.learnbyexample.org/python-functions/)
-    - [Class](https://www.learnbyexample.org/python-classes-and-objects/)
-    - [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/)
+   - [Functions](https://www.learnbyexample.org/python-functions/)
+   - [Class](https://www.learnbyexample.org/python-classes-and-objects/)
+   - [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/)
 
   </td>
 
