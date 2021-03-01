@@ -1,37 +1,32 @@
 # Practice Questions
 ## Python Pre-requisite
-
+<div align="center">
 <table width="90%"> 
   <td width="30%">
-    <tr>
       
    - [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/)
    - [Loop](https://www.learnbyexample.org/python-while-loop/)
    - [break](https://www.learnbyexample.org/python-break-statement/)
    
-   </tr>
   </td>
   
   <td width="30%">
-    <tr>
       
   - [Dictionary](https://www.learnbyexample.org/python-dictionary/)
   - [Lists](https://www.learnbyexample.org/python-list/) 
   - [Format String](https://www.learnbyexample.org/python-string-format-method/)
     
-    </tr>
   </td>
  
   <td width="30%">
-  <tr>
     
   - [Functions](https://www.learnbyexample.org/python-functions/)
   - [Class](https://www.learnbyexample.org/python-classes-and-objects/)
   - [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/)
   
-  </tr>
   </td>
   </table>
+</div>
 
 ### Ques-1
 Write a function to compute 1/0 and use try/except to catch the exception.
