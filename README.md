@@ -9,8 +9,7 @@
    - [break](https://www.learnbyexample.org/python-break-statement/)
 
   </td>
- 
-  <tr>
+  
   <td width="33.33%">
   
   - [Dictionary](https://www.learnbyexample.org/python-dictionary/)
@@ -20,8 +19,6 @@
   - [Operators](https://www.learnbyexample.org/python-operators/)
   </td>
  
-  
-  <tr>
   <td width="33.33%">
   
   - [Functions](https://www.learnbyexample.org/python-functions/)
@@ -30,8 +27,6 @@
   </td>
   </tr>
   </table>
-
-
 
 ### Ques-1
 Write a function to compute 1/0 and use try/except to catch the exception.
