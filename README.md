@@ -1,8 +1,8 @@
 # Practice Questions
 ## Python Pre-requisite
-<table width="100%"> 
+<table width="90%"> 
   <tr>
-  <td width="33.33%">
+  <td width="30%">
     
    - [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/)
    - [Loop](https://www.learnbyexample.org/python-while-loop/)
@@ -10,7 +10,7 @@
 
   </td>
   
-  <td width="33.33%">
+  <td width="30%">
   
   - [Dictionary](https://www.learnbyexample.org/python-dictionary/)
   - [Lists](https://www.learnbyexample.org/python-list/) 
@@ -19,7 +19,7 @@
   - [Operators](https://www.learnbyexample.org/python-operators/)
   </td>
  
-  <td width="33.33%">
+  <td width="30%">
   
   - [Functions](https://www.learnbyexample.org/python-functions/)
   - [Class](https://www.learnbyexample.org/python-classes-and-objects/)
