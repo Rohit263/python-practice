@@ -8,9 +8,7 @@
    - [Loop](https://www.learnbyexample.org/python-while-loop/)
    - [break](https://www.learnbyexample.org/python-break-statement/)
 
-   - [Functions](https://www.learnbyexample.org/python-functions/)
-   - [Class](https://www.learnbyexample.org/python-classes-and-objects/)
-   - [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/)
+   
 
   </td>
 
@@ -22,6 +20,12 @@
   - [Format String](https://www.learnbyexample.org/python-string-format-method/)
   - [Operators](https://www.learnbyexample.org/python-operators/)
   </td>
+  
+  <td width="25%">
+  
+  - [Functions](https://www.learnbyexample.org/python-functions/)
+  - [Class](https://www.learnbyexample.org/python-classes-and-objects/)
+  - [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/)
   </table>
 
 
