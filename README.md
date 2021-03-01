@@ -1,18 +1,28 @@
 # Practice Questions
 ## Python Pre-requisite
-- [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/)
-- [Loop](https://www.learnbyexample.org/python-while-loop/)
-- [break](https://www.learnbyexample.org/python-break-statement/)
+<table width="100%"> 
+  <tr>
+  <td width="25%">
+    - [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/)
+    - [Loop](https://www.learnbyexample.org/python-while-loop/)
+    - [break](https://www.learnbyexample.org/python-break-statement/)
 
-- [Functions](https://www.learnbyexample.org/python-functions/)
-- [Class](https://www.learnbyexample.org/python-classes-and-objects/)
-- [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/)
+    - [Functions](https://www.learnbyexample.org/python-functions/)
+    - [Class](https://www.learnbyexample.org/python-classes-and-objects/)
+    - [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/)
 
-- [Dictionary](https://www.learnbyexample.org/python-dictionary/)
-- [Lists](https://www.learnbyexample.org/python-list/) 
+  </td>
 
-- [Format String](https://www.learnbyexample.org/python-string-format-method/)
-- [Operators](https://www.learnbyexample.org/python-operators/)
+  <td width="25%">
+  - [Dictionary](https://www.learnbyexample.org/python-dictionary/)
+  - [Lists](https://www.learnbyexample.org/python-list/) 
+
+  - [Format String](https://www.learnbyexample.org/python-string-format-method/)
+  - [Operators](https://www.learnbyexample.org/python-operators/)
+  </td>
+  </table>
+
+
 
 ### Ques-1
 Write a function to compute 1/0 and use try/except to catch the exception.
