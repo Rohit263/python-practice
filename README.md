@@ -14,9 +14,8 @@
   
   - [Dictionary](https://www.learnbyexample.org/python-dictionary/)
   - [Lists](https://www.learnbyexample.org/python-list/) 
-
   - [Format String](https://www.learnbyexample.org/python-string-format-method/)
-  - [Operators](https://www.learnbyexample.org/python-operators/)
+  
   </td>
  
   <td width="30%">
@@ -24,6 +23,7 @@
   - [Functions](https://www.learnbyexample.org/python-functions/)
   - [Class](https://www.learnbyexample.org/python-classes-and-objects/)
   - [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/)
+  
   </td>
   </tr>
   </table>
