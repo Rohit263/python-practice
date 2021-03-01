@@ -8,10 +8,9 @@
    - [Loop](https://www.learnbyexample.org/python-while-loop/)
    - [break](https://www.learnbyexample.org/python-break-statement/)
 
-   
-
   </td>
-
+  </tr>
+  <tr>
   <td width="25%">
   
   - [Dictionary](https://www.learnbyexample.org/python-dictionary/)
