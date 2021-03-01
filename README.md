@@ -32,8 +32,8 @@ Write a function to find smallest 'x' digit number that is divisible by 'y'
 ![](output-img/ques-3.png)
 
 ### Ques-4
-Write a function to calculate Right and Left wheel velocity for unicycle differential drive robot
-and feed these velocity to another function that will print the movement of the robot.
+Write a function to calculate Right and Left wheel velocity (in rpm) for a differential drive robot
+and feed these velocities to another function that will print the directional movement of the robot.
 - Output \
 ![](output-img/ques-4.png)
 
