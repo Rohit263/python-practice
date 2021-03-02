@@ -11,6 +11,8 @@
   [Operators](https://www.learnbyexample.org/python-operators/) \
   [Format String](https://www.learnbyexample.org/python-string-format-method/) 
   
+  [Logging](https://realpython.com/python-logging/) \
+  
   [Differential Drive Model](https://www.youtube.com/watch?v=aE7RQNhwnPQ)
 
 ____
