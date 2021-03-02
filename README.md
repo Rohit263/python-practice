@@ -1,10 +1,11 @@
 ## How to contribute ?
 - Different branches have been created for each individual in following manner: `<name>-codes`. Kindly check `Switch branch` section to find your own branch. 
 ![](output-img/branch-img.png)
-- Avoid uploading your code directly to `main` branch. Push it in your respective branch and create a `Pull Request`. 
+- Avoid uploading your code directly to `main` branch. Push it in your respective branch and \
+create a `Pull Request`. 
 - Codes will be merged with `main` only if your code works perfect.
 - To raise any queries or doubts, kindly use `Issues` section and upload your questions with proper tags. 
-- It is recommended to `Watch` this repo to stay notified with the changes.
+- Recommended to `Watch` this repo and select `All Activity` to stay notified with the changes.
 
 ## Pre-requisite
   [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/) \
