@@ -4,6 +4,7 @@
 - Avoid uploading your code directly to `main` branch. Push it in your respective branch and create a `Pull Request`. 
 - Codes will be merged with `main` only if your code works perfect.
 - To raise any queries or doubts, kindly use `Issues` section and upload your questions with proper tags. 
+- It is recommended to `Watch` this repo to stay notified with the changes.
 
 ## Pre-requisite
   [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/) \
