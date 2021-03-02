@@ -13,7 +13,9 @@ create a `Pull Request`.
   [break](https://www.learnbyexample.org/python-break-statement/) \
   [Dictionary](https://www.learnbyexample.org/python-dictionary/) \
   [Lists](https://www.learnbyexample.org/python-list/) 
-    
+  
+  ***
+  
   [Functions](https://www.learnbyexample.org/python-functions/) \
   [Class](https://www.learnbyexample.org/python-classes-and-objects/) \
   [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/) \
@@ -21,7 +23,7 @@ create a `Pull Request`.
   [Format String](https://www.learnbyexample.org/python-string-format-method/) 
   
   [Logging](https://realpython.com/python-logging/)
-  
+  ***
   [Differential Drive Model](https://www.youtube.com/watch?v=aE7RQNhwnPQ)
 
 ____
