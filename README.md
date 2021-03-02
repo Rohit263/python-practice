@@ -6,6 +6,7 @@ create a `Pull Request`.
 - Codes will be merged with `main` only if your code works perfect.
 - To raise any queries or doubts, kindly use `Issues` section and upload your questions with proper tags. 
 - Recommend you to `Watch` this repo and select `All Activity` to stay notified with the changes.
+- Visit [Issues](https://github.com/ros-bootcamp/python-practice/issues/1) section for sample issue generation
 
 ## Pre-requisite
   [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/) \
