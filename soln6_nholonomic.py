@@ -36,7 +36,7 @@ def constraints():
         print('Origin')
 
 
-if __name__=="__main__":
+if __name__ == "__main__":
     up = int(input("UP "))
     down = int(input("DOWN "))
     left = int(input("LEFT "))
