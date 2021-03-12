@@ -1,10 +1,22 @@
+## How to contribute ?
+- Different branches have been created for each individual in following manner: `<name>-codes`. Kindly check `Switch branch` section to find your own branch. 
+![](output-img/branch-img.png)
+- Avoid pushing your code directly to `main` branch. Commit in your respective branch and \
+create a `Pull Request`. 
+- Codes will be merged with `main` only if your code works perfect.
+- To raise any queries or doubts, kindly use `Issues` section and upload your questions with proper tags. 
+- Recommend you to `Watch` this repo and select `All Activity` to stay notified with the changes.
+- Visit [Issues](https://github.com/ros-bootcamp/python-practice/issues/1) section for sample issue generation
+
 ## Pre-requisite
   [If-else](https://www.learnbyexample.org/python-if-else-elif-statement/) \
   [Loop](https://www.learnbyexample.org/python-while-loop/) \
   [break](https://www.learnbyexample.org/python-break-statement/) \
   [Dictionary](https://www.learnbyexample.org/python-dictionary/) \
   [Lists](https://www.learnbyexample.org/python-list/) 
-    
+  
+  ***
+  
   [Functions](https://www.learnbyexample.org/python-functions/) \
   [Class](https://www.learnbyexample.org/python-classes-and-objects/) \
   [Exception Handling](https://www.learnbyexample.org/python-exceptions-try-except/) \
@@ -12,7 +24,7 @@
   [Format String](https://www.learnbyexample.org/python-string-format-method/) 
   
   [Logging](https://realpython.com/python-logging/)
-  
+  ***
   [Differential Drive Model](https://www.youtube.com/watch?v=aE7RQNhwnPQ)
 
 ____
