@@ -16,10 +16,11 @@ def drive():
     vl = (((2*v) - (w*l))/(2*r))
 
    # Printing the wheels velocities after converting them into rpm.
-    print('')
-    print('Output-')
-    print(f'Left Wheel Velocity= {((vl*60)/(2*math.pi)):.5f} rpm')
-    print(f'Right Wheel Veocity= {((vr*60)/(2*math.pi)):.5f} rpm')
+    print(f'''
+Output-
+Left Wheel Velocity= {((vl*60)/(2*math.pi)):.5f} rpm
+Right Wheel Veocity= {((vr*60)/(2*math.pi)):.5f} rpm''')
+
     
 
 
